@@ -5448,7 +5448,7 @@ export const aiModelsData: AIModelItem[] = [
       ]
     },
     "usageTips": {
-      "uz": "Rasm ichiga yozuv qo'shmoqchi bo'lsangiz, uni qo'shtirnoq ichida yozing: 'a barista holding a chalkboard with text \"OYBEKOVA.UZ\"'.",
+      "uz": "Rasm ichiga yozuv qo'shmoqchi bo'lsangiz, uni qo'shtirnoq ichida yozing: 'a barista holding a chalkboard with text \"AYBEKOVA.UZ\"'.",
       "tk": "Ýazgyny goştumaç içinde ýazyň: \"TEKST\".",
       "ru": "Указывайте текст строго в кавычках: \"A neon sign that says \"HELLO\" on a rainy wall\".",
       "en": "Enclose text prompts in double quotes: \"A vintage cafe awning with text \"ROASTED DAILY\"\"."

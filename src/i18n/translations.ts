@@ -229,7 +229,7 @@ export const translations: Record<Language, UITranslations> = {
       about: 'Loyiha haqida',
     },
     hero: {
-      badge: "oybekova.uz • 3D Interaktiv IT & AI Ensiklopediyasi",
+      badge: "aybekova.uz • 3D Interaktiv IT & AI Ensiklopediyasi",
       titleStart: "Texnologiya va ",
       titleHighlight: "Sun'iy Intellekt",
       titleEnd: " olamini 3D formatda kashf eting",
@@ -423,10 +423,10 @@ export const translations: Record<Language, UITranslations> = {
       compareTopTwo: "Top 2 modelni solishtirish",
     },
     aboutPage: {
-      badge: "oybekova.uz • Missiya va Aloqa",
+      badge: "aybekova.uz • Missiya va Aloqa",
       title: "Loyiha haqida",
       subtitle:
-        "oybekova.uz — O'zbekiston va Markaziy Osiyo foydalanuvchilari uchun IT va Sun'iy Intellekt bilimlarini sodda, aniq va zamonaviy 3D formatda taqdim etuvchi portal.",
+        "aybekova.uz — O'zbekiston va Markaziy Osiyo foydalanuvchilari uchun IT va Sun'iy Intellekt bilimlarini sodda, aniq va zamonaviy 3D formatda taqdim etuvchi portal.",
       missionTitle: "Portal maqsadi",
       missionText:
         "Bugungi kunda IT va AI texnologiyalari soat sayin o'zgarmoqda. Ushbu portal har bir o'quvchi, dasturchi, tadbirkor va qiziquvchiga texnologiyalar tarixini, ularning qanday ishlashini va o'z vazifasi uchun qaysi AI vositasini tanlash kerakligini tushunarli tilda ko'rsatib berish uchun yaratilgan.",
@@ -461,7 +461,7 @@ export const translations: Record<Language, UITranslations> = {
       about: 'Taslama barada',
     },
     hero: {
-      badge: 'oybekova.uz • 3D Interaktiw IT & AI Ensiklopediýasy',
+      badge: 'aybekova.uz • 3D Interaktiw IT & AI Ensiklopediýasy',
       titleStart: 'Tehnologiýa we ',
       titleHighlight: 'Emeli Aň',
       titleEnd: ' dünýäsini 3D görnüşinde öwreniň',
@@ -655,10 +655,10 @@ export const translations: Record<Language, UITranslations> = {
       compareTopTwo: 'Top 2 modeli deňeşdirmek',
     },
     aboutPage: {
-      badge: 'oybekova.uz • Maksat we Aragatnaşyk',
+      badge: 'aybekova.uz • Maksat we Aragatnaşyk',
       title: 'Taslama barada',
       subtitle:
-        'oybekova.uz — Merkezi Aziýa ulanyjylary üçin IT we Emeli Aň bilimlerini ýönekeý, takyk we döwrebap 3D formatda hödürleýän portal.',
+        'aybekova.uz — Merkezi Aziýa ulanyjylary üçin IT we Emeli Aň bilimlerini ýönekeý, takyk we döwrebap 3D formatda hödürleýän portal.',
       missionTitle: 'Portalyň maksady',
       missionText:
         'Häzirki wagtda IT we AI tehnologiýalary sagat saýyn üýtgeýär. Bu portal her bir okuwça, programmirçä, telekeçä we gyzyklanýana tehnologiýalaryň taryhyny, işleýşini we öz işi üçin haýsy AI guralyny saýlamalydygyny düşnükli dilde görkezmek üçin döredildi.',
@@ -693,7 +693,7 @@ export const translations: Record<Language, UITranslations> = {
       about: 'О проекте',
     },
     hero: {
-      badge: 'oybekova.uz • 3D Интерактивная энциклопедия ИТ и ИИ',
+      badge: 'aybekova.uz • 3D Интерактивная энциклопедия ИТ и ИИ',
       titleStart: 'Исследуйте мир технологий и ',
       titleHighlight: 'Искусственного Интеллекта',
       titleEnd: ' в 3D',
@@ -887,10 +887,10 @@ export const translations: Record<Language, UITranslations> = {
       compareTopTwo: 'Сравнить топ-2 модели',
     },
     aboutPage: {
-      badge: 'oybekova.uz • Миссия и контакты',
+      badge: 'aybekova.uz • Миссия и контакты',
       title: 'О проекте',
       subtitle:
-        'oybekova.uz — современный 3D-портал, созданный для доступного и наглядного изучения ИТ и Искусственного Интеллекта.',
+        'aybekova.uz — современный 3D-портал, созданный для доступного и наглядного изучения ИТ и Искусственного Интеллекта.',
       missionTitle: 'Миссия портала',
       missionText:
         'Технологии ИТ и ИИ развиваются каждый день. Наша цель — дать каждому студенту, разработчику и исследователю понятную базу знаний об устройстве технологий и честное сравнение современных ИИ-инструментов.',
@@ -925,7 +925,7 @@ export const translations: Record<Language, UITranslations> = {
       about: 'About',
     },
     hero: {
-      badge: 'oybekova.uz • 3D Interactive IT & AI Encyclopedia',
+      badge: 'aybekova.uz • 3D Interactive IT & AI Encyclopedia',
       titleStart: 'Explore Information Technology & ',
       titleHighlight: 'Artificial Intelligence',
       titleEnd: ' in 3D',
@@ -1119,10 +1119,10 @@ export const translations: Record<Language, UITranslations> = {
       compareTopTwo: 'Compare Top 2 Models',
     },
     aboutPage: {
-      badge: 'oybekova.uz • Mission & Contact',
+      badge: 'aybekova.uz • Mission & Contact',
       title: 'About the Project',
       subtitle:
-        'oybekova.uz is a modern 3D knowledge portal designed to make Information Technology and Artificial Intelligence clear, structured, and accessible.',
+        'aybekova.uz is a modern 3D knowledge portal designed to make Information Technology and Artificial Intelligence clear, structured, and accessible.',
       missionTitle: 'Portal Mission',
       missionText:
         'IT and AI are evolving every single week. Our mission is to give learners, developers, and professionals a solid foundation in how technology works alongside an objective comparison of modern AI tools.',

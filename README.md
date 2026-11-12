@@ -1,6 +1,6 @@
-# oybekova.uz — IT va Sun'iy Intellekt 3D Bilim Portali
+# aybekova.uz — IT va Sun'iy Intellekt 3D Bilim Portali
 
-**oybekova.uz** — Axborot Texnologiyalari (IT) tarixi, sohalari, ishlash tamoyillari hamda Sun'iy Intellekt (AI) tarixi, zamonaviy AI vositalari va modellarini chuqur o'rganish, solishtirish va sinash uchun mo'ljallangan zamonaviy 3D interaktiv veb-portal.
+**aybekova.uz** — Axborot Texnologiyalari (IT) tarixi, sohalari, ishlash tamoyillari hamda Sun'iy Intellekt (AI) tarixi, zamonaviy AI vositalari va modellarini chuqur o'rganish, solishtirish va sinash uchun mo'ljallangan zamonaviy 3D interaktiv veb-portal.
 
 Sayt **Yorug' (Light) minimalist Apple/Stripe** uslubida, shaffof oynasimon (glassmorphism) kartalar, interaktiv 3D WebGL (Three.js) sahnalari va to'liq 4 tilli (O'zbekcha, Türkmençe, Русский, English) tizimda qurilgan.
 
@@ -37,7 +37,7 @@ Sayt **Yorug' (Light) minimalist Apple/Stripe** uslubida, shaffof oynasimon (gla
    - O'z vazifangizga qarab AI tanlab beruvchi 4 bosqichli maslahatchi (Quiz).
 
 6. **Loyiha haqida va Muallif:**
-   - oybekova.uz missiyasi, sayt texnologiyalari va taklif/savol yuborish shakli.
+   - aybekova.uz missiyasi, sayt texnologiyalari va taklif/savol yuborish shakli.
 
 ---
 
@@ -74,18 +74,18 @@ Loyihaning tayyor statik fayllari `dist/` papkasida hosil bo'ladi.
 
 ---
 
-## 🌐 oybekova.uz Domeniga Joylashtirish (Deploy)
+## 🌐 aybekova.uz Domeniga Joylashtirish (Deploy)
 
 Sayt 100% frontend SPA (Single Page Application) bo'lgani sababli uni istalgan hostingga 1 daqiqada joylashtirish mumkin:
 
 ### Usul 1: Vercel yoki Netlify (Tavsiya etiladi - Bepul va Tezkor)
 1. Loyihani GitHub repozitoriyingizga push qiling.
 2. [Vercel](https://vercel.com) yoki [Netlify](https://netlify.com) ga kiring va GitHub dagi ushbu repozitoriyani tanlang.
-3. Sozlamalarda Domen bo'limiga o'tib, `oybekova.uz` domenini ulang (DNS ga CNAME yoki A yozuvini kiritasiz).
+3. Sozlamalarda Domen bo'limiga o'tib, `aybekova.uz` domenini ulang (DNS ga CNAME yoki A yozuvini kiritasiz).
 
 ### Usul 2: Oddiy Web Hosting (cPanel / Apache / Nginx)
 1. `npm run build` buyrug'ini bering.
-2. `dist/` papkasi ichidagi barcha fayllarni (`index.html`, `assets/`, va h.k.) hostingingizning `public_html` (yoki oybekova.uz ga tegishli papkaga) yuklang.
+2. `dist/` papkasi ichidagi barcha fayllarni (`index.html`, `assets/`, va h.k.) hostingingizning `public_html` (yoki aybekova.uz ga tegishli papkaga) yuklang.
 3. Sayt zudlik bilan ishga tushadi!
 
 ---
@@ -98,11 +98,11 @@ Sayt egasining ismi, email manzili, Telegram va GitHub havolalarini yangilash uc
 U yerdagi ma'lumotlarni o'zingiznikiga almashtirishingiz kifoya:
 ```typescript
 export const siteConfig = {
-  domain: 'oybekova.uz',
+  domain: 'aybekova.uz',
   authorPlaceholder: {
     name: 'Ismingiz',
     role: { ... },
-    email: 'info@oybekova.uz',
+    email: 'info@aybekova.uz',
     telegram: 'https://t.me/profilingiz',
     github: 'https://github.com/profilingiz',
   }
@@ -113,5 +113,5 @@ export const siteConfig = {
 
 ## 📄 Litsenziya
 Ushbu loyiha ochiq ta'lim va axborot maqsadlarida yaratilgan.
-© 2026 oybekova.uz — Barcha huquqlar himoyalangan.
+© 2026 aybekova.uz — Barcha huquqlar himoyalangan.
 

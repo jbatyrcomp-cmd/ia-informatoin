@@ -15,12 +15,12 @@ export interface SiteConfig {
 }
 
 /**
- * oybekova.uz loyiha va muallif sozlamalari.
+ * aybekova.uz loyiha va muallif sozlamalari.
  * Saytni joylashtirishdan oldin quyidagi shablon ma'lumotlarini o'zingiznikiga osongina almashtirishingiz mumkin.
  */
 export const siteConfig: SiteConfig = {
-  domain: 'oybekova.uz',
-  brandName: 'oybekova.uz',
+  domain: 'aybekova.uz',
+  brandName: 'aybekova.uz',
   tagline: {
     uz: "IT va Sun'iy Intellekt bo'yicha zamonaviy 3D bilim portali",
     tk: 'IT we Emeli Aň boýunça döwrebap 3D bilim portaly',
@@ -28,16 +28,16 @@ export const siteConfig: SiteConfig = {
     en: 'Modern 3D Knowledge Portal for IT & Artificial Intelligence',
   },
   authorPlaceholder: {
-    name: 'Oybekova (Loyiha asoschisi)',
+    name: 'Aybekova (Loyiha asoschisi)',
     role: {
       uz: 'IT & AI tadqiqotchisi va portal muallifi',
       tk: 'IT we AI gözlegçisi, portal awtory',
       ru: 'Исследователь ИТ и ИИ, автор портала',
       en: 'IT & AI Researcher and Portal Creator',
     },
-    email: 'info@oybekova.uz',
-    telegram: 'https://t.me/oybekova_uz',
-    github: 'https://github.com/oybekova-uz',
+    email: 'info@aybekova.uz',
+    telegram: 'https://t.me/aybekova_uz',
+    github: 'https://github.com/aybekova-uz',
     location: {
       uz: "Toshkent, O'zbekiston",
       tk: 'Daşkent, Özbegistan',

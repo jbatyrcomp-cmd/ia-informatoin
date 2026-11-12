@@ -12,7 +12,7 @@ const LanguageContext = createContext<LanguageContextValue | undefined>(undefine
 
 export const LanguageProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [language, setLanguageState] = useState<Language>(() => {
-    const saved = localStorage.getItem('oybekova_lang') as Language | null;
+    const saved = localStorage.getItem('aybekova_lang') as Language | null;
     if (saved && ['uz', 'tk', 'ru', 'en'].includes(saved)) {
       return saved;
     }
@@ -21,7 +21,7 @@ export const LanguageProvider: React.FC<{ children: React.ReactNode }> = ({ chil
 
   const setLanguage = (lang: Language) => {
     setLanguageState(lang);
-    localStorage.setItem('oybekova_lang', lang);
+    localStorage.setItem('aybekova_lang', lang);
   };
 
   useEffect(() => {

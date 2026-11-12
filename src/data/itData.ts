@@ -245,8 +245,8 @@ export const itDomains: ITDomainItem[] = [
     },
     technologies: ['TypeScript', 'React / Next.js', 'Python', 'Go', 'Java / Kotlin', 'PostgreSQL'],
     examples: {
-      uz: "Bank ilovalari, onlayn do'konlar, ijtimoiy tarmoqlar va oybekova.uz kabi portallar.",
-      tk: 'Bank programmalary, onlaýn dükanlar, sosial torlar we oybekova.uz ýaly portallar.',
+      uz: "Bank ilovalari, onlayn do'konlar, ijtimoiy tarmoqlar va aybekova.uz kabi portallar.",
+      tk: 'Bank programmalary, onlaýn dükanlar, sosial torlar we aybekova.uz ýaly portallar.',
       ru: 'Банковские приложения, маркетплейсы, мессенджеры и веб-порталы.',
       en: 'Banking apps, e-commerce platforms, SaaS dashboards, and web portals.',
     },
@@ -458,10 +458,10 @@ export const itLayers: ITLayerItem[] = [
       en: 'The OS kernel schedules processes millions of times per second, enforces memory isolation, and talks to hardware through device drivers.',
     },
     realExample: {
-      uz: "Siz bir vaqtda musiqa tinglab, brauzerda oybekova.uz ni ochib, fayl yuklay olasiz — buni OS taqsimlaydi.",
-      tk: 'Şol bir wagtda saz diňläp, brauzerde oybekova.uz açyp we faýl ýükläp bilýärsiňiz — muny OS dolandyrýar.',
+      uz: "Siz bir vaqtda musiqa tinglab, brauzerda aybekova.uz ni ochib, fayl yuklay olasiz — buni OS taqsimlaydi.",
+      tk: 'Şol bir wagtda saz diňläp, brauzerde aybekova.uz açyp we faýl ýükläp bilýärsiňiz — muny OS dolandyrýar.',
       ru: 'Вы можете одновременно слушать музыку, открывать сайт в браузере и качать файл благодаря планировщику ОС.',
-      en: 'Listening to music while browsing oybekova.uz and downloading a file—all orchestrated seamlessly by your OS.',
+      en: 'Listening to music while browsing aybekova.uz and downloading a file—all orchestrated seamlessly by your OS.',
     },
   },
   {
@@ -512,10 +512,10 @@ export const itLayers: ITLayerItem[] = [
       en: 'Breaks data into packets, resolves domain names via DNS, and routes encrypted traffic globally over TCP/IP and HTTPS.',
     },
     howItWorks: {
-      uz: "Brauzerga oybekova.uz yozilganda, DNS server uning IP manzilini topadi, TLS shifrlangan kanal ochadi va HTTPS so'rovi orqali serverdan sahifa paketlarini yig'ib beradi.",
-      tk: 'Brauzere oybekova.uz ýazylanda, DNS serwer IP salgysyny tapýar, TLS şifrlenen kanal açýar we HTTPS arkaly sahypany ýükleýär.',
-      ru: 'Когда вы вводите oybekova.uz, DNS находит IP сервера, устанавливается защищённое TLS-соединение, и по HTTPS приходят пакеты данных.',
-      en: 'Typing oybekova.uz triggers a DNS lookup, establishes an encrypted TLS handshake, and streams page packets over HTTPS.',
+      uz: "Brauzerga aybekova.uz yozilganda, DNS server uning IP manzilini topadi, TLS shifrlangan kanal ochadi va HTTPS so'rovi orqali serverdan sahifa paketlarini yig'ib beradi.",
+      tk: 'Brauzere aybekova.uz ýazylanda, DNS serwer IP salgysyny tapýar, TLS şifrlenen kanal açýar we HTTPS arkaly sahypany ýükleýär.',
+      ru: 'Когда вы вводите aybekova.uz, DNS находит IP сервера, устанавливается защищённое TLS-соединение, и по HTTPS приходят пакеты данных.',
+      en: 'Typing aybekova.uz triggers a DNS lookup, establishes an encrypted TLS handshake, and streams page packets over HTTPS.',
     },
     realExample: {
       uz: "Telegramda yuborilgan xabar 100 millisekundda okean ostidagi kabellar orqali boshqa davlatga yetib boradi.",
@@ -548,10 +548,10 @@ export const itLayers: ITLayerItem[] = [
       en: 'The UI calls a cloud API, which queries distributed databases or GPU AI clusters and renders the response seamlessly in your browser.',
     },
     realExample: {
-      uz: "ChatGPT, Google Search, bank ilovalari va oybekova.uz dagi AI taqqoslash tizimi.",
-      tk: 'ChatGPT, Google Search, bank programmalary we oybekova.uz portalyndaky AI deňeşdirme ulgamy.',
-      ru: 'ChatGPT, облачные документы, онлайн-банкинг и система сравнения ИИ на oybekova.uz.',
-      en: 'ChatGPT, Google Maps, mobile banking, and the interactive AI comparison portal on oybekova.uz.',
+      uz: "ChatGPT, Google Search, bank ilovalari va aybekova.uz dagi AI taqqoslash tizimi.",
+      tk: 'ChatGPT, Google Search, bank programmalary we aybekova.uz portalyndaky AI deňeşdirme ulgamy.',
+      ru: 'ChatGPT, облачные документы, онлайн-банкинг и система сравнения ИИ на aybekova.uz.',
+      en: 'ChatGPT, Google Maps, mobile banking, and the interactive AI comparison portal on aybekova.uz.',
     },
   },
 ];
